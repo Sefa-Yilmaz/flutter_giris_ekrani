@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500532850821",
+    "project_id": "girisekrani-74411",
+    "storage_bucket": "girisekrani-74411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500532850821:android:3f366c7173f9d9d35239ec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_giris_ekrani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500532850821-un6vp5to467er8f6k6l0e64b2a021h9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYE42bsmGCYNnTU19PjsktExyJkBaYAUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500532850821-un6vp5to467er8f6k6l0e64b2a021h9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
